@@ -27,6 +27,15 @@ Java web application which manages the trainers/trainees of Sparta Global
 * Register a new group and assign it trainees/trainers
 * Allocate a group to a classroom and assign it with a schedule (ie. start date and end dates)
 
+### Prerequisites
+```
+MySQL Installer (MySQL Workbench, MySQL Server, MySQL Sample database)- https://dev.mysql.com/downloads/installer/ 
+
+You'll need to have a MySQL database and specify the name of the database, your chosen mysql password and username in the
+"application.properties" file.
+
+```
+
 ## Built With
 * [Spring Boot](https://spring.io/projects/spring-boot) - Platform based on Spring which provides a pre-defined web application development enviroment
 * [Maven](https://maven.apache.org/) - Dependency Management
