@@ -6,9 +6,11 @@ Spring boot application which allows users to manage the trainers/trainees of Sp
 **Trainers**
 * Register new trainers 
 * View a list of trainers
+
 **Trainees**
 * Register new trainees
 * View a list of trainees
+
 **Courses**
 * View a list of avaliable courses on offer
 * Register a new course
