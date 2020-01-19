@@ -29,9 +29,9 @@ Java web application which manages the trainers/trainees of Sparta Global
 ### Prerequisites
 The web application utilises a local MySQL database to store the entered data.
 I recommend MySQL workbench:
-*MySQL Installer (MySQL Workbench, MySQL Server)- https://dev.mysql.com/downloads/installer/ 
+* MySQL Installer (MySQL Workbench, MySQL Server)- https://dev.mysql.com/downloads/installer/ 
 
-*You'll need to specify the corresponding MySQL (local) database details into the "application.properties" file in order to succefully connect the application with the database.
+* You'll need to specify the corresponding MySQL (local) database details into the "application.properties" file in order to succefully connect the application with the database.
 
 ## Built With
 * [Spring Boot](https://spring.io/projects/spring-boot) - Platform based on Spring which provides a pre-defined web application development enviroment
