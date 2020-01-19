@@ -6,26 +6,22 @@ Spring boot application which allows users to manage the trainers/trainees of Sp
 **Trainers**
 * Register new trainers 
 * View a list of trainers
-
-=====Trainees=====
+**Trainees**
 * Register new trainees
 * View a list of trainees
-
-=====Courses=====
+**Courses**
 * View a list of avaliable courses on offer
 * Register a new course
-
-=====Modules=====
+**Modules**
 * View a list of modules that are taught 
 * Register a new module
-
-=====Classroom=====
+**Classroom**
 * View a list of classrooms and their capacitys 
 * Register a new classroom
-
-=====Groups=====
+**Groups**
 * Register a new group and assign it trainees/trainers
 * Allocate a group to a classroom and assign it with a schedule (ie. start date and end dates)
+
 ### Prerequisites
 The web application utilises a local MySQL database to store the entered data.
 I recommend MySQL workbench -
