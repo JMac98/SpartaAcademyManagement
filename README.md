@@ -1,6 +1,6 @@
 # SpartaAcademyManagementSystem
 
-Java web application which manages the trainers/trainees of Sparta Global
+Spring boot application which allows users to manage the trainers/trainees of Sparta Global.
 
 # Features
 =====Trainers=====
