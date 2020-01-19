@@ -2,7 +2,7 @@
 
 Spring boot application which allows users to manage the trainers/trainees of Sparta Global.
 
-# Features
+# Description
 =====Trainers=====
 * Register new trainers 
 * View a list of trainers
