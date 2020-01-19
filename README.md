@@ -14,18 +14,21 @@ Spring boot application which allows users to manage the trainers/trainees of Sp
 **Courses**
 * View a list of avaliable courses on offer
 * Register a new course
+
 **Modules**
-* View a list of modules that are taught 
+* View a list of modules that are taught at Sparta Global
 * Register a new module
+
 **Classroom**
 * View a list of classrooms and their capacitys 
 * Register a new classroom
+
 **Groups**
 * Register a new group and assign it trainees/trainers
 * Allocate a group to a classroom and assign it with a schedule (ie. start date and end dates)
 
 ### Prerequisites
-The web application utilises a local MySQL database to store the entered data.
+The web application utilises a local MySQL database to store data.
 I recommend MySQL workbench -
 * MySQL Installer (MySQL Workbench, MySQL Server)- https://dev.mysql.com/downloads/installer/ 
 
